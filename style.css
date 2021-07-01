@@ -24,6 +24,7 @@
             background-color: black;
             height: 10rem;
             width: 100%;
+            z-index: 10;
         }
         
 
@@ -95,6 +96,7 @@
                 width: 100%;
                 height: 100vh;
                 background-color: black;
+                   z-index: 10;
                 /* top:8rem; */
                 left: -100%;
                 text-align: center;
