@@ -786,6 +786,10 @@ font-size: 3rem;
         html{
             font-size: 6.6px;
         }
+            
+            .intro h1{
+            font-size:20px;
+            }
 .about{
     margin-left:3rem ;
     margin-right:3rem ;
