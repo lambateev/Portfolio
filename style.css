@@ -125,6 +125,7 @@
             }
 
         }
+/* Navbar Styling Ends*/
 
         /* Landing Page Styling Starts */
 
@@ -264,7 +265,11 @@
             color:#ffff00;
         }
 
-        /* EDUCATION */
+
+/* About Section Styling Ends */
+
+        /* Education Section Styling Starts*/
+
         .edu h1 {
             text-align: center;
            
@@ -525,11 +530,12 @@
         .uiux {
             margin-right: 5rem;
         }
+/* Skills Section Styling Ends */
 
-        /* contact */
+
+/* Contact Section Styling Starts */
 
 
-       
         .contact {
             margin-bottom: 10rem;
         }
@@ -673,6 +679,11 @@
             box-shadow: .3rem .3rem 1rem #ffff00;
         }
 
+
+/* Contact Section Styling Ends */
+
+/*  Footer Styling Starts*/
+
         footer p{
             text-align: center;
             margin-bottom: 3rem;
@@ -691,7 +702,9 @@
             color: #ffff00;
         }
 
-       /* Responsive */
+/*  Footer Styling Starts*/
+
+       /* Responsive Styling Starts */
 
        @media only screen and (max-width: 1300px){
 
@@ -814,4 +827,5 @@ font-size: 3rem;
 
         }
     }
+ /* Responsive Styling Ends */
         
