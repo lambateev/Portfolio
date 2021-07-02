@@ -762,6 +762,7 @@ font-size: 3rem;
 
         .columnright{
             margin-left: 10rem;
+                margin-right:0;
         }
 
         .buttonarea button{
