@@ -802,8 +802,8 @@ font-size: 3rem;
             display: block;
         }
 
-        .subject input , .field textarea{
-            width:30rem;
+        .subject input , .field textarea , .fields input{
+            width:40rem;
 
         }
     }
